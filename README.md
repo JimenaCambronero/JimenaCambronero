@@ -8,7 +8,8 @@ Me encuentro muy feliz de haber comenzado a andar por este nuevo camino.
 Soy una persona muy curiosa, perfeccionista, siempre me gusta ir aprendiendo algo nuevo, soy proactiva y pongo mi corazón y compromiso en toda mi vida y proyectos profesionales.
 
 🙋‍♀️ Estudie Desarrollo Web en Coder House y me encuentro aprendiendo a diario.
-💪🏻  Hoy estudio JavaScript en Coder House.
+💪🏻 Estudie JavaScrips en Coder House.
+💪🏻 Estudiando React en Coder House.
 🌎  En constante aprendizaje del mundo digital.  
 💻  Apasionada por las redes sociales.
 📖  Investigando el mundo UX/UI.
