@@ -7,16 +7,16 @@ Es realmente apasionante ver cómo algo que nació como un hobby se va convirtie
 Me encuentro muy feliz de haber comenzado a andar por este nuevo camino. 
 Soy una persona muy curiosa, perfeccionista, siempre me gusta ir aprendiendo algo nuevo, soy proactiva y pongo mi corazón y compromiso en toda mi vida y proyectos profesionales.
 
-🙋‍♀️ Estudie Desarrollo Web en Coder House y me encuentro aprendiendo a diario.
-💪🏻 Estudie JavaScrips en Coder House.
-💪🏻 Estudiando React en Coder House.
+🙋‍♀️ Estudie Desarrollo Web en CoderHouse y me encuentro aprendiendo a diario.
+💪🏻 Estudie JavaScript en CoderHouse.
+💪🏻 Estudiando React en CoderHouse.
 🌎  En constante aprendizaje del mundo digital.  
 💻  Apasionada por las redes sociales.
 📖  Investigando el mundo UX/UI.
 ✔ Abogada.
 <p>  
   
-<h2>Languages, libraries and tools</h2>
+<h2>Conocimientos</h2>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 
@@ -42,23 +42,21 @@ React || JavaScript || CSS3 || HTML5 || SASS || Bootstrap || Git || GitHub || JQ
 </div>
 
 
-
-<h2>Projects</h2>
+<h2>Proyectos</h2>
 <h3>🎹  Pagina Web  para Cristian del Giorgio. </h3>
 2021 ||  Página Web de Cristian del Giorgio, tecladista compositor y creador del método de enseñanza The Secret Key. Proyecto para el curso de Desarrollo Web dictado por CoderHouse. Se uso HTML5 CSS SASS Bootstrap y algunas animaciones  para los titulos.
 
-
-**GitHub link**: https://jimenacambronero.github.io/CristiandelGiorgio/
+📌**GitHub link**: https://jimenacambronero.github.io/CristiandelGiorgio/
 
 
 <h3>🐱🐰🐶 Cuidamos a  tu Mascota </h3>
 2021  || Proyecto para el curso de JavaScript de CoderHouse. Sitio web para cuidado de mascotas. Se utilizo HTML5 CSS JavaScrip Jquery y Bootstrap.  
 
-**GitHub link**: https://jimenacambronero.github.io/CuidamosTuMascota/
+📌**GitHub link**: https://jimenacambronero.github.io/CuidamosTuMascota/
 
+<br>
+<h5> Si te gustó alguno de los proyectos podes apoyarme haciendo clic en el ⭐️ botón y corriendo la voz 🦄 👩‍💻 Muchas gracias y Saludos!</h5>
 
-****Si te gustó, haz clic en el ⭐️ botón y corre la voz 🦄 👩‍💻 Muchas gracias y Saludos! Jimena**
----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimenaCambronero&hide=contribs,prs)
 
 
