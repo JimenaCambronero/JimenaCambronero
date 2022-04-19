@@ -57,7 +57,7 @@ React || JavaScript || CSS3 || HTML5 || SASS || Bootstrap || Git || GitHub || JQ
 **GitHub link**: https://jimenacambronero.github.io/CuidamosTuMascota/
 
 
-
+****Si te gustó, haz clic en el ⭐️ botón y corre la voz 🦄 👩‍💻 Muchas gracias y Saludos! Jimena**
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimenaCambronero&hide=contribs,prs)
 
