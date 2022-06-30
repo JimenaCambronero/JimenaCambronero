@@ -7,9 +7,11 @@ Es realmente apasionante ver cómo algo que nació como un hobby se va convirtie
 Me encuentro muy feliz de haber comenzado a andar por este nuevo camino. 
 Soy una persona muy curiosa, perfeccionista, siempre me gusta ir aprendiendo algo nuevo, soy proactiva y pongo mi corazón y compromiso en toda mi vida y proyectos profesionales.
 
-🙋‍♀️ Estudie Desarrollo Web en CoderHouse y me encuentro aprendiendo a diario.
-💪🏻 Estudie JavaScript en CoderHouse.
-💪🏻 Estudiando React en CoderHouse.
+🏻  Estudie **Desarrollo Web** en CoderHouse y me encuentro aprendiendo a diario.
+💪🏻 Estudie **JavaScript** en CoderHouse.
+💪🏻 Estudie **React.js** en CoderHouse.
+Actualmente me encuentro estudiando **Desarrollo de Apps** con React Native y **Data Analitycs**.
+
 🌎  En constante aprendizaje del mundo digital.  
 💻  Apasionada por las redes sociales.
 📖  Investigando el mundo UX/UI.
@@ -59,7 +61,7 @@ React || JavaScript || CSS3 || HTML5 || SASS || Bootstrap || Git || GitHub || JQ
 2022  || Proyecto para el curso de React.js de CoderHouse. Desarrollado como proyecto Final.
 Se utilizó React.js, React Router, Firebase y Tailwind. 
 
-📌**Versel link**: https://proyecto-tienda-react.vercel.app/
+📌**Vercel link**: https://proyecto-tienda-react.vercel.app/
 
 <br>
 <h5> Si te gustó alguno de los proyectos podes apoyarme haciendo clic en el ⭐️ botón y corriendo la voz 🦄 👩‍💻 Muchas gracias y Saludos!</h5>
