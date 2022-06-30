@@ -50,9 +50,16 @@ React || JavaScript || CSS3 || HTML5 || SASS || Bootstrap || Git || GitHub || JQ
 
 
 <h3>🐱🐰🐶 Cuidamos a  tu Mascota </h3>
-2021  || Proyecto para el curso de JavaScript de CoderHouse. Sitio web para cuidado de mascotas. Se utilizo HTML5 CSS JavaScrip Jquery y Bootstrap.  
+2022  || Proyecto para el curso de JavaScript de CoderHouse. Sitio web para cuidado de mascotas. Se utilizo HTML5 CSS JavaScrip Jquery y Bootstrap.  
 
 📌**GitHub link**: https://jimenacambronero.github.io/CuidamosTuMascota/
+
+
+<h3>🐱 E-commerce inspirado en la tienda de Simons´s Cat. 
+Desarrollado como proyecto Final para el curso de React.JS de CoderHouse, 
+Para este Proyecto se utilizó React.js, React Router, Firebase y Tailwind. </h3>
+2022  || Proyecto para el curso de React.js de CoderHouse.  
+📌**Versel link**: https://proyecto-tienda-react.vercel.app/
 
 <br>
 <h5> Si te gustó alguno de los proyectos podes apoyarme haciendo clic en el ⭐️ botón y corriendo la voz 🦄 👩‍💻 Muchas gracias y Saludos!</h5>
