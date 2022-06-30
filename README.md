@@ -56,8 +56,9 @@ React || JavaScript || CSS3 || HTML5 || SASS || Bootstrap || Git || GitHub || JQ
 
 
 <h3>🐱 E-commerce inspirado en la tienda de Simons´s Cat </h3>
-2022  || Proyecto para el curso de React.js de CoderHouse.  Desarrollado como proyecto Final para el curso de React.JS de CoderHouse, 
-Para este Proyecto se utilizó React.js, React Router, Firebase y Tailwind. 
+2022  || Proyecto para el curso de React.js de CoderHouse. Desarrollado como proyecto Final.
+Se utilizó React.js, React Router, Firebase y Tailwind. 
+
 📌**Versel link**: https://proyecto-tienda-react.vercel.app/
 
 <br>
