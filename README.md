@@ -10,7 +10,7 @@ Soy una persona muy curiosa, perfeccionista, siempre me gusta ir aprendiendo alg
 🏻  Estudie **Desarrollo Web** en CoderHouse y me encuentro aprendiendo a diario.
 💪🏻 Estudie **JavaScript** en CoderHouse.
 💪🏻 Estudie **React.js** en CoderHouse.
-Actualmente me encuentro estudiando **Desarrollo de Apps** con React Native y **Data Analitycs**.
+Actualmente me encuentro estudiando **Python** y **Data Analitycs**.
 
 🌎  En constante aprendizaje del mundo digital.  
 💻  Apasionada por las redes sociales.
