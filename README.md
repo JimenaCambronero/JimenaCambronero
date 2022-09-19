@@ -7,9 +7,7 @@ Es realmente apasionante ver cómo algo que nació como un hobby se va convirtie
 Me encuentro muy feliz de haber comenzado a andar por este nuevo camino. 
 Soy una persona muy curiosa, perfeccionista, siempre me gusta ir aprendiendo algo nuevo, soy proactiva y pongo mi corazón y compromiso en toda mi vida y proyectos profesionales.
 
-🏻  Estudie **Desarrollo Web** en CoderHouse y me encuentro aprendiendo a diario.
-💪🏻 Estudie **JavaScript** en CoderHouse.
-💪🏻 Estudie **React.js** en CoderHouse.
+🏻  Estudie **Desarrollo Web** en CoderHouse **JavaScript** y **React.js** en CoderHouse.
 Actualmente me encuentro estudiando **Python** y **Data Analitycs**.
 
 🌎  En constante aprendizaje del mundo digital.  
