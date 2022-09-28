@@ -64,6 +64,6 @@ Se utilizó React.js, React Router, Firebase y Tailwind.
 <br>
 <h5> Si te gustó alguno de los proyectos podes apoyarme haciendo clic en el ⭐️ botón y corriendo la voz 🦄 👩‍💻 Muchas gracias y Saludos!</h5>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimenaCambronero&hide=contribs,prs)
-
-
+![JimenaCambronero GitHub stats](https://github-readme-stats.vercel.app/api?username=JimenaCambronero&show_icons=true&theme=cobalt)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimenaCambronero&langs_count=5&theme=cobalt&layout=compact)
