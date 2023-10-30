@@ -8,6 +8,7 @@ Me encuentro muy feliz de haber comenzado a andar por este nuevo camino.
 Soy una persona muy curiosa, perfeccionista, siempre me gusta ir aprendiendo algo nuevo, soy proactiva y pongo mi corazón y compromiso en toda mi vida y proyectos profesionales.
 
 🏻  Estudie **Desarrollo Web** en CoderHouse y luego continue estudiando con sus cursos de **JavaScript** **React** **Python** y **Data Analitycs**.
+Hoy me encuentro realizando un bootcamp an Analisis de Datos en **Unicorn Proyect** y mejorando mis habilidades en Excel en la **Escuela de Excel y Finanzas** de Miguel Antunez
 
 🌎  En constante aprendizaje del mundo digital.  
 💻  Apasionada por las redes sociales.
