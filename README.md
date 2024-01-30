@@ -41,8 +41,10 @@ Hoy me encuentro realizando un bootcamp an Analisis de Datos en **Unicorn Proyec
 React || JavaScript || CSS3 || HTML5 || SASS || Bootstrap || Git || GitHub || JQuery
 </div>
 
+<h2<Podes ver mis dashboard en NovyPro <h2>
+📌**Porfolio POWERBI**: [
+](https://www.novypro.com/profile_projects/jimenacambronero)<h2>Proyectos</h2>
 
-<h2>Proyectos</h2>
 <h3>🎹  Pagina Web  para Cristian del Giorgio. </h3>
 2021 ||  Página Web de Cristian del Giorgio, tecladista compositor y creador del método de enseñanza The Secret Key. Proyecto para el curso de Desarrollo Web dictado por CoderHouse. Se uso HTML5 CSS SASS Bootstrap y algunas animaciones  para los titulos.
 
