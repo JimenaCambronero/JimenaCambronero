@@ -1,4 +1,7 @@
 ### Hola a todos! 👋👩‍💻 Soy Jimena <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jimenacambronero)
+
 <p> 💻 console.log ("Hola mundo")🌎
 Un poquito sobre mi:
 Estudié Derecho... trabajé en la profesión libre por un tiempo, luego ingresé a trabajar en el Suprema Corte de Justicia de la Provincia de Buenos Aires, muchos años después poco a poco me fui introduciendo y aprendiendo sobre el mundo de la programación. 
@@ -18,6 +21,9 @@ Hoy me encuentro realizando un bootcamp an Analisis de Datos en **Unicorn Proyec
   
 <h2>Conocimientos</h2>
 <div align="center">
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Sql" alt="Sql" width="50" height="70"/>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
@@ -38,14 +44,17 @@ Hoy me encuentro realizando un bootcamp an Analisis de Datos en **Unicorn Proyec
 </div>
 
 <div align="center">
-React || JavaScript || CSS3 || HTML5 || SASS || Bootstrap || Git || GitHub || JQuery
+MySQL || Power Bi || Python || React || JavaScript || CSS3 || HTML5 || SASS || Bootstrap || Git || GitHub || JQuery 
 </div>
 
 
-📌**Porfolio POWERBI**: 
-https://www.novypro.com/profile_projects/jimenacambronero
+
 
 <h2>Proyectos</h2>
+
+<h3>📌**Porfolio Power BI**:</h3>
+https://www.novypro.com/profile_projects/jimenacambronero
+
 
 <h3>🎹  Pagina Web  para Cristian del Giorgio. </h3>
 2021 ||  Página Web de Cristian del Giorgio, tecladista compositor y creador del método de enseñanza The Secret Key. Proyecto para el curso de Desarrollo Web dictado por CoderHouse. Se uso HTML5 CSS SASS Bootstrap y algunas animaciones  para los titulos.
@@ -64,10 +73,12 @@ https://www.novypro.com/profile_projects/jimenacambronero
 Se utilizó React.js, React Router, Firebase y Tailwind. 
 
 📌**Vercel link**: https://proyecto-tienda-react.vercel.app/
-
 <br>
 <h5> Si te gustó alguno de los proyectos podes apoyarme haciendo clic en el ⭐️ botón y corriendo la voz 🦄 👩‍💻 Muchas gracias y Saludos!</h5>
 
 ![JimenaCambronero GitHub stats](https://github-readme-stats.vercel.app/api?username=JimenaCambronero&show_icons=true&theme=cobalt)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimenaCambronero&langs_count=5&theme=cobalt&layout=compact)
+<br>
+
+
