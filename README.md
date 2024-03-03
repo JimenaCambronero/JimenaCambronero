@@ -3,15 +3,31 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jimenacambronero)
 
 <p> 💻 console.log ("Hola mundo")🌎
-Un poquito sobre mi:
-Estudié Derecho... trabajé en la profesión libre por un tiempo, luego ingresé a trabajar en el Suprema Corte de Justicia de la Provincia de Buenos Aires, muchos años después poco a poco me fui introduciendo y aprendiendo sobre el mundo de la programación. 
-Mi energía, compromiso y dedicación me han permitido crecer de forma autodidacta, luego sentí que era momento de estudiar y profundizar mis conocimientos.
-Es realmente apasionante ver cómo algo que nació como un hobby se va convirtiendo en una realidad que acaba superando cualquier expectativa. 
-Me encuentro muy feliz de haber comenzado a andar por este nuevo camino. 
-Soy una persona muy curiosa, perfeccionista, siempre me gusta ir aprendiendo algo nuevo, soy proactiva y pongo mi corazón y compromiso en toda mi vida y proyectos profesionales.
+📊 ¡Hola! Soy Jimena 💡👩‍💻📜 una analista de datos y desarrolladora front-end con más de cuatro años de experiencia en el campo de la tecnología. 
+Estudie en Coderhouse, una plataforma de educación online que ofrece cursos especializados en diferentes áreas digitales. Allí, adquirí mis conocimientos en SQL, Python y Power BI para extraer, transformar y visualizar datos, y generar informes que ayuden a mejorar la calidad y el impacto de los cursos. También tome cursos de React.js, HTML y CSS para crear y optimizar páginas web dinámicas e interactivas.
 
-🏻  Estudie **Desarrollo Web** en CoderHouse y luego continue estudiando con sus cursos de **JavaScript** **React** **Python** y **Data Analitycs**.
-Hoy me encuentro realizando un bootcamp an Analisis de Datos en **Unicorn Proyect** y mejorando mis habilidades en Excel en la **Escuela de Excel y Finanzas** de Miguel Antunez
+Mi formación académica se basa en una carrera de Abogacía en la Universidad Nacional de La Plata, y una serie de cursos en Coderhouse y Unicorn Project, donde adquirí habilidades profundas en análisis de datos, programación y desarrollo web. 
+
+Mi pasión por el aprendizaje me motiva a seguir explorando nuevas tecnologías y herramientas que me permitan resolver problemas, aportar soluciones creativas y generar valor. Soy una persona curiosa, perfeccionista y orientada a resultados, que disfruta de los desafíos y de trabajar en equipo. Estoy abierta a oportunidades emocionantes que me permitan crecer profesionalmente y contribuir al desarrollo de proyectos innovadores.
+
+Además, mis habilidades técnicas incluyen:
+
+📌 SQL: Experiencia en consultas y gestión de bases de datos.
+
+📌 Python: Conocimientos para análisis de datos y automatización de procesos.
+
+📌 Power BI: Habilidad en visualización de datos y creación de informes interactivos.
+
+📌 Excel: Manipulación de datos y creación de informes avanzados.
+
+📌 Bases de datos relacionales: Diseño y consulta.
+
+📌 ETL (Extract, Transform, Load): Conocimientos en procesos de integración de datos.
+
+También estoy ampliando mis habilidades en la Academia de Excel y Finanzas de Miguel Antúnez, donde profundizo en estrategias avanzadas para el análisis financiero y la optimización de procesos.
+
+Estoy abierta a oportunidades emocionantes en el ámbito de análisis de datos. 
+Si buscas un perfil apasionado y comprometido, ¡contáctame en 📌📩 jimenacambronero@gmail.com
 
 🌎  En constante aprendizaje del mundo digital.  
 💻  Apasionada por las redes sociales.
