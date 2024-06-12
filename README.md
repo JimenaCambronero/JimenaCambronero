@@ -56,8 +56,8 @@ MySQL || Power Bi || Python || React || JavaScript || CSS3 || HTML5 || SASS || B
 Si te gusta este repositorio, puedes mostrar tu apoyo haciendo clic en el botón ⭐️ y compartiéndolo. 🦄
 
 <div id="imagenes" align="center">
-  <img src="/Imagenes/titanic/titanic1.png" width="600"/>
-  <img src="Imagenes/titanic/titanic2.png " width="800"/>
+  <img src="/Imagenes/titanic/titanic1.png" width="100%"/>
+  <img src="Imagenes/titanic/titanic2.png " width="100%"/>
 </div>
 
 <b>Link al Repositorio</b>
@@ -69,9 +69,9 @@ Si te gusta este repositorio, puedes mostrar tu apoyo haciendo clic en el botón
 En este repositorio, he recopilado una serie de conceptos clave, ejercicios prácticos y recursos útiles, entiendo lo crucial que es dominar esta herramienta y estar preparado para los desafíos del mundo real. SQL Aprende Bases de Datos, Consultas, Funciones, Tablas y Permisos. Diseña y Programa una Base de Datos Relacional SQL.
 
 <div id="imagenes" align="center">
-  <img src="/Imagenes/imgsql/EstructuraControl.png" width="600"/>
-  <img src="Imagenes/imgsql/vistasSQL.png " width="600"/>
-  <img src="Imagenes/imgsql/EstructuraControl.png " width="600"/>
+  <img src="/Imagenes/imgsql/EstructuraControl.png" width="90%"/>
+  <img src="Imagenes/imgsql/vistasSQL.png " width="90%"/>
+  <img src="Imagenes/imgsql/EstructuraControl.png " width="90%"/>
 </div>
 
 <b> 📌 Link al Repositorio</b>
@@ -82,8 +82,8 @@ https://github.com/JimenaCambronero/CentroMedico_SQL
 Este notebook contiene un análisis paso a paso utilizando Seaborn sobre un conjunto de datos de propinas (tips). Se cubren conceptos básicos como visualización de datos univariados y bivariados, manipulación de datos, y técnicas de exploración de patrones.Contiene información sobre la cantidad de propina dejada por los clientes en un restaurante, junto con varias características asociadas como el total de la factura, el día de la semana, y la cantidad de comensales.
 
 <div id="imagenes" align="center">
-  <img src="/Imagenes/pyimg/seaborn1.png" width="600"/>
-  <img src="/Imagenes/pyimg/seaborn2.png" width="600"/>
+  <img src="/Imagenes/pyimg/seaborn1.png" width="100%"/>
+  <img src="/Imagenes/pyimg/seaborn2.png" width="100%"/>
 </div>
 
 <b> 📌 Link al Repositorio</b>
