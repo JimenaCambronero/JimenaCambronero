@@ -57,7 +57,7 @@ Si te gusta este repositorio, puedes mostrar tu apoyo haciendo clic en el botón
 
 <div id="imagenes" align="center">
   <img src="/Imagenes/titanic/titanic1.png" width="100%"/>
-  <img src="Imagenes/titanic/titanic2.png " width="1000"/>
+  <img src="Imagenes/titanic/titanic2.png " width="100%"/>
 </div>
 
 <b>Link al Repositorio</b>
@@ -90,7 +90,8 @@ Este notebook contiene un análisis paso a paso utilizando Seaborn sobre un conj
 https://github.com/JimenaCambronero/Analisis_datos_Python/tree/main
 
 <h3>📌**Porfolio Power BI**:</h3>
-https://www.novypro.com/profile_projects/jimenacambronero
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.novypro.com/profile_projects/jimenacambronero)
 
 
 <h4>Si queres ver más repositorios dale a la ⭐️ 🦄👩‍💻 Muchas gracias y Saludos!<h4>
