@@ -57,7 +57,6 @@ Si te gusta este repositorio, puedes mostrar tu apoyo haciendo clic en el botón
 
 <div id="imagenes" align="center">
   <img src="/Imagenes/titanic/titanic1.png" width="100%"/>
-  <img src="Imagenes/titanic/titanic2.png " width="100%"/>
 </div>
 
 <b>Link al Repositorio</b>
@@ -70,8 +69,6 @@ En este repositorio, he recopilado una serie de conceptos clave, ejercicios prá
 
 <div id="imagenes" align="center">
   <img src="/Imagenes/imgsql/EstructuraControl.png" width="90%"/>
-  <img src="Imagenes/imgsql/vistasSQL.png " width="90%"/>
-  <img src="Imagenes/imgsql/EstructuraControl.png " width="90%"/>
 </div>
 
 <b> 📌 Link al Repositorio</b>
@@ -83,7 +80,6 @@ Este notebook contiene un análisis paso a paso utilizando Seaborn sobre un conj
 
 <div id="imagenes" align="center">
   <img src="/Imagenes/pyimg/seaborn1.png" width="100%"/>
-  <img src="/Imagenes/pyimg/seaborn2.png" width="100%"/>
 </div>
 
 <b> 📌 Link al Repositorio</b>
